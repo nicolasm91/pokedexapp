@@ -1,0 +1,15 @@
+/* test the wea*/
+.circle {
+  margin: auto;
+  width: 68px;
+  height: 68px;
+  background: lightcoral;
+  border-radius: 70px;
+  display: flex;
+}
+
+.pkmnicon {
+  display: block;
+  margin: auto;
+  width: auto;
+}
